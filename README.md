@@ -2,7 +2,7 @@
 アルゴリズム特論課題2  
 C版です
 ## 各種ファイル
-### [report2_git_C.cpp](https://github.com/akira-kumashiro/report2_git_C/blob/master/report2_git_C/report2_git_C/report2_git_C.cpp "report2_git_C.cpp")
+### [report2_git_C.cpp](https://github.com/akira-kumashiro/report2_git_C/blob/master/report2_git_C/report2_git_C.cpp "report2_git_C.cpp")
 ぜんぶここに
 ## コピーの仕方
 上のファイルを中身を含めて作る→新しいプロジェクトを作ってVisualStudioの右側にある「ソリューション エクスプローラー」にD&D
